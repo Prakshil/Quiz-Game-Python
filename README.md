@@ -31,7 +31,7 @@ pip install streamlit
 1. Navigate to the project directory:
 
 ```bash
-cd path/to/razorpayClone2
+cd path/to/file
 ```
 
 2. Run the Streamlit application:
