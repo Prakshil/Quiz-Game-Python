@@ -1,4 +1,4 @@
-# Quiz Game - Ultimate Quiz Challenge
+# Quiz Game - Ultimate Quiz Challenge made in python and Streamlit
 
 ## Overview
 
